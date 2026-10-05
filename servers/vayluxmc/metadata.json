@@ -1,1 +1,29 @@
-
+{
+  "id": "vayluxmc",
+  "name": "VayluxMC",
+  "description": "Servidor Survival con misiones, mazmorras, economía y PvP.",
+  "addresses": [
+    "minestrax.fun"
+  ],
+  "primaryAddress": "play.vayluxmc.met",
+  "minecraftVersions": [
+    "1.21.8"
+  ],
+  "primaryMinecraftVersion": "1.21.8",
+  "primaryColor": "#ff6a00",
+  "secondaryColor": "#0d0e15",
+  "primaryLanguage": "es",
+  "languages": [
+    "es"
+  ],
+  "primaryRegion": "SA",
+  "regions": [
+    "SA"
+  ],
+  "gameTypes": [
+    "Survival"
+  ],
+  "primaryGameType": "Survival",
+  "website": "https://web.vayluxmc.net",
+  "crossplay": true
+}
